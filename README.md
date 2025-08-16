@@ -20,3 +20,13 @@ This Python program takes a user's first name and last name as input and concate
 Expected output: Hello, John Doe! Welcome to the Python program.
 
 <hr style="width:100%;text-align:left;margin-left:0">
+<b>Assignment 2: Module 3: Control Structures in Python</b>
+<hr style="width:100%;text-align:left;margin-left:0">
+
+**1. As2_Mod3_Tsk1_Check_Even_Odd.py** 
+This program takes an integer input from the user. It checks if the number is even or odd and displays the result accordingly.
+
+**2. As2_Mod3_Tsk2_Sum_1_To_50_Using_For_Loop.py** 
+This program iterates over the numbers from 1 to 50. Calculates the sum of all the integers in this range and displays the final sum.
+
+<hr style="width:100%;text-align:left;margin-left:0">
