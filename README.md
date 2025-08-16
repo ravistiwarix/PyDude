@@ -4,10 +4,10 @@ In order to locate a task file from a specific assignment and module follow the 
 
 **Example:** As1_Mod2_Tsk1_Basic_Maths_Ops.py
 
-**Explanation: **
-As1: Assignment 1
-Mod2: Module 2
-Tsk1: Task 1
+**Explanation:**
+    **As1:** Assignment 1
+    **Mod2:** Module 2
+    **Tsk1:** Task 1
 
 **Solutions uploaded:**
 **1.	As1_Mod2_Tsk1_Basic_Maths_Ops.py**
