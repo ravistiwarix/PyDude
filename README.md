@@ -9,7 +9,7 @@ In order to locate a task file from a specific assignment and module follow the 
     **Mod2:** Module 2
     **Tsk1:** Task 1
 
-**Solutions uploaded:**
+**Solutions For --> ASSIGNMENT 1: Module 2: Basic Python Concepts**
 
 **1.	As1_Mod2_Tsk1_Basic_Maths_Ops.py**
 This Python code accepts two numbers from the user and performs basic mathematical operations such as Addition, Subtraction, Multiplication and Division. The program displays the result of each operation clearly on the screen.
