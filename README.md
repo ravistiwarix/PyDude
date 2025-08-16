@@ -8,7 +8,7 @@ In order to locate a task file from a specific assignment and module follow the 
     **As1:** Assignment 1
     **Mod2:** Module 2
     **Tsk1:** Task 1
-
+<hr style="width:100%;text-align:left;margin-left:0">
 **Solutions For --> ASSIGNMENT 1: Module 2: Basic Python Concepts**
 
 **1.	As1_Mod2_Tsk1_Basic_Maths_Ops.py**
