@@ -1,6 +1,6 @@
 # PyDude: This repository contains the solution for all the assignments. 
 In order to locate a task file from a specific assignment and module follow the nomenclature:
-<Assignment number>_<Module Number>_<Task Number>_Description.py
+"<Assignment number>_<Module Number>_<Task Number>_Description.py"
 
 **Example:** As1_Mod2_Tsk1_Basic_Maths_Ops.py
 
