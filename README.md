@@ -30,3 +30,13 @@ This program takes an integer input from the user. It checks if the number is ev
 This program iterates over the numbers from 1 to 50. Calculates the sum of all the integers in this range and displays the final sum.
 
 <hr style="width:100%;text-align:left;margin-left:0">
+<b>Assignment 3: Module 4: Functions & Modules in Python</b>
+<hr style="width:100%;text-align:left;margin-left:0">
+
+**As3_Mod4_Tsk1_Factorial_Function.py**
+This program calculates the factorial of the provided number using Loop as well as Recursion.
+
+**As3_Mod4_Tsk2_Using_Math_Module.py**
+This program calculates Square root, Natural log, Sin of the input number using math module.
+
+<hr style="width:100%;text-align:left;margin-left:0">
