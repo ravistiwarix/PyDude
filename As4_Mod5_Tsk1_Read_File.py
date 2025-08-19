@@ -1,4 +1,4 @@
-# This program reads a test file name sample.txt
+# This program reads a text file name sample.txt
 # Print its content line by line.
 # If the fie does not exist handles errors gracefully
 
