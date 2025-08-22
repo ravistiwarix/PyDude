@@ -50,3 +50,14 @@ This program reads a text file name 'sample.txt'. Print its content line by line
 This program takes user input and writes it to a file named 'output.txt'. Appends additional data to the same file. And finally, reads and displays the final content of the file.
 
 <hr style="width:100%;text-align:left;margin-left:0">
+<h3>Assignment 5: Module 6: Data Structures And Strings</h3>
+<hr style="width:100%;text-align:left;margin-left:0">
+
+**As5_Mod6_Tsk1_Dictionary_Of_Student_Marks.py**
+This program creates a dictionary of students where name is key and marks is value. It takes student name from the user. The program then Retrieves and displays the corresponding marks. And, if the student’s name is not found, displays an appropriate message.
+
+**As5_Mod6_Tsk2_List_Slicing.py**
+Program creates a list of numbers from 1 to 10. It extracts the first five elements from the list. Reverses these extracted elements. It Prints both the extracted list and the reversed list.
+Program demonstrates multiple ways to reverse a list using reverse(), Slicing, reversed(), pop()
+
+<hr style="width:100%;text-align:left;margin-left:0">
